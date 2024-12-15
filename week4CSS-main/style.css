@@ -1,0 +1,24 @@
+* {
+    background-color: darkviolet;
+    color: lavender;
+    text-align: center;
+  }
+
+h1 {
+  border-bottom-style: inset;
+  border-bottom-color: rgb(65,0,100);
+  }
+  
+body {
+  border-style: inset;
+  border-color: rgb(65,0,100);
+  }
+  
+p {
+    font-family: serif;
+    font-size: 20px;
+  }
+#para1 {
+  border-bottom-style: inset;
+  border-bottom-color: rgb(65,0,100);
+}
